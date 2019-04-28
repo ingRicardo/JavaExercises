@@ -19,7 +19,7 @@ public class Fibo {
 			System.out.println("-------->>");
 			
 			int [] vec =  new int[15];
-			for (int i = 0 ; i < 15; i++) {
+			for (int i = 0 ; i < vec.length; i++) {
 				
 				if (i<2) {
 					vec[i] = i;
