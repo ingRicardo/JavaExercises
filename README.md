@@ -27,3 +27,6 @@ word9 word6 word8 word3
 -First 1000 Prime numbers
 
 -Integer Palindrome
+
+-Amstrong numbers between 0 and 1000
+
