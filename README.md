@@ -30,7 +30,7 @@ word9 word6 word8 word3
 
 -Amstrong numbers between 0 and 1000
 
--Multithreading test
+-Multithreading test (Process)
 
 
 
