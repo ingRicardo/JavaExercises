@@ -34,5 +34,7 @@ word9 word6 word8 word3
 
 -Factorial
 
+-Factorial recursion
+
 
 
