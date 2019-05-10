@@ -12,11 +12,10 @@ public class Factorial_rec {
 	/**
 	 * @param args
 	 */
-	public static int re=1,num =6;
+	public static int re=1,num =8;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int n=num;
-		fac(n);	
+		fac(num);	
 		System.out.println("re-> "+ re);
 	}
 	
